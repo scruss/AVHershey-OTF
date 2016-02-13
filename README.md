@@ -1,6 +1,6 @@
 # AVHershey-OTF
 
-**NB: This is a preliminary release, and each font file does not
+**NB: This is a preliminary release, and most font files do not
   contain enough character glyphs for useful typesetting. As is, this
   distribution is _not yet_ recommended for the general user.**
 
